@@ -1,0 +1,23 @@
+{
+  "type": "service_account",
+  "project_id": "active-freehold-392203",
+  "private_key_id": "a7b12ec9f4932c5fd7473aadcf25feb4a334a047",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9CBTxYiYfdkc1\nqLHhtQR66+x+VlDvlo2a4cD0Pix3K3UBAc3o2KHyJaQd8BNsZARf64PjNaIJ8apn\nfHS+zYBFb7QvksCMUxY0fdm9sSvFTjkHl44MmYChhsgQkF/Xqz9ZjfYZlNS4z77O\nHIh4wocJtekrjO2uZKA409iXnQhC9qbPgaWPdpdGDR40HyVCG3Ew73zYWSGLnnh7\ncD+YxUwc0djVHdPlk3A19YH6sgdu/XhBg/jByiNKjjqiUH3XvtbrJjIVlCT2YaAU\nw40yl60HTP0iza8NQSYcE2AI2QHRpHIPGULysUFLsOZZ7nrdu+cxJbzZZiFaHrPm\nMhuPPr6VAgMBAAECggEARJwpVc+E/MhmYkB/h+e235K//L8Bk2R2sy+bZEsownxA\ndIQeI5R1ezlUTxVzR1UqDVKjRRWTYb6YVgVjLlnSY+F+agH+5y/FEHpZTLOAqpWQ\nt4O3qDUS7g3IkdKFJvdd//g5yeEuMIIexBqxIfuhHdIr9oWpQzH8wYOKysTRWdQi\nyYZ62FHLDnJfNCYYhJfV1s1N4t3r761iDByd1dxIKnwxzD++Lo9hVwTIGrlQaOn9\ny7+GtcaIqJjgfCYyIvcWx8vZLwoEoNwqCHLOUVAFEDxFmi0Ep3x7BrCBBVWNNkcJ\ncoIAwi8kpAeo8Vo3OTWX5mKeIwgfJNO7QXdS/hu0pQKBgQDiHnXUFspbMPeo71kJ\nnJebdd7oWGz1xWyhr2hrCFuTs3TAOVTJw0wzkYF2ZZfK3Wb8hrx+Ti6Et3WFUjCf\n5nY2T/uWaNtkCW5A6J11a7NYQoIT4NXrA3P/RcmajlvvacC0B+rbkDhHIEg+o+lm\nrr911HGqngqF70JOEoGEdo1KuwKBgQDWAvcLEp5xvXFZbpptihFPU2QhV69QH1Wa\n0GSUUcweYsB11idPyJHG3hgfxxEZGtgoQsyIGERCFT+iWYi4Re0C/ATw0MXYEMp8\nxcqbKQzV/4zu+nUM1smE81RgEXRLesDHaCTHkzRsjFRsKeqC9wDSZOjM35YANK95\nvB1IhyNO7wKBgF6r4CtnS1v42Yg6he3XSUaGiEiBVUVlXkEnvrEpc6YYeaZNmqlL\nAmmI30ph6LbAEfFivCKpuyJH6YVjTwZzqES/IhfsWQa+SBIXEm3qJNGsLugBt67I\n6FUVs/3o4qcPgOYfdn5tGJL2+ih32i3qtjCwPNLxjnhbH0iuyNlcBXYnAoGAVJVL\nanbrZGzJVd1e75g4CzAcTQlI4tPfk5Z1iiFiGUhSZMBFPUU6SG0S/8w/t7piYFc2\nWzusDqozQkk8vgf1Cs7sbPk2mJTaUsIht31b82BTJUib5n0lnIRHfsinPAXCF43T\nq4VEnPpBi5Ztd2GEU6NKV16u/FnWWLi+oiG3FMUCgYEApxeASQoJt6QSmghBNuWo\nYNCiBSOi+sd7o/GtD5jqayuPogLa4npi8spc0GbH0GK+xp2Hbt2ONKsFKyODBZxB\nxWloSLyIVNueLD4oKmQYG7hasIxOLB6i3piM30lD4ZGylLcgGwZu1sB8hpdLartz\nb+pmDEoAIR0A/Jf6Y6OuBo8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "surbhi@active-freehold-392203.iam.gserviceaccount.com",
+  "client_id": "107171471166931786624",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/surbhi%40active-freehold-392203.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "web": {
+    "client_id": "685333415893-qajf6fimlrrruk83a7m9o75kf5am6vg1.apps.googleusercontent.com",
+    "project_id": "active-freehold-392203",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": ["http://127.0.0.1:5000/"],
+    "javascript_origins": ["http://127.0.0.1:5000"]
+  }
+}

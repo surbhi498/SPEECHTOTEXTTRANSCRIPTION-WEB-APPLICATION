@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Speech Transcription</title>
+  </head>
+  <body>
+    <h1>Speech Transcription</h1>
+    <form id="speechForm" action="{{ url_for('transcribe') }}" method="POST">
+      <label for="recordButton">Record Speech:</label>
+      <button type="button" id="recordButton">Start Recording</button>
+      <br />
+      <label for="audioFile">Upload Audio File:</label>
+      <input type="file" id="audioFile" />
+      <br />
+      <button type="submit">Transcribe</button>
+    </form>
+
+    <!-- <form id="speechForm">
+      <label for="recordButton">Record Speech:</label>
+      <button type="button" id="recordButton">Start Recording</button>
+      <br />
+      <label for="audioFile">Upload Audio File:</label>
+      <input type="file" id="audioFile" />
+      <br />
+      <button type="submit">Transcribe</button>
+    </form> -->
+
+    <div id="transcriptionResult"></div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+  </body>
+</html>
